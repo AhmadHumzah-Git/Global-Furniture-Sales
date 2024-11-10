@@ -1,4 +1,3 @@
-
 # Global Furniture Sales Dashboard
 
 This Power BI dashboard provides a comprehensive analysis of global furniture sales, enabling insights into key performance metrics across different regions, product categories, and time periods. The dashboard is designed to support decision-making by visualizing sales trends, revenue contributions by region, and profitability across product categories. Users can interact with various filters to customize views, such as exploring performance by specific time frames, regions, or product segments.
